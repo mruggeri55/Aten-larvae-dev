@@ -1,0 +1,167 @@
+StackID,sampleNUM,symClade,symTreat,hostStage,timepoint,confocal,Edu,size,offscreen,sym.count,damage,stage,filter,notes
+101A,101,B,32,larv,9,old,5247.956,313434.823,no,415,,larv,,
+101B,101,B,32,larv,9,old,3318.489,301387.883,no,97,,larv,,
+101D,101,B,32,larv,9,new,NA,282294.249,no,238,,meta,Y,
+101F,101,B,32,larv,9,new,NA,260655.775,no,NA,,larv,,
+102E,102,B,32,larv,9,new,36424.52,253202.005,no,443,,larv,,
+102F,102,B,32,larv,9,new,31756.65,265556.696,no,331,,larv,,
+102G,102,B,32,larv,9,new,28176.85,311783.059,no,443,,larv,,
+102H,102,B,32,larv,9,new,30495.89,324044.53,no,301,,larv,,
+106B,106,C,25,larv,9,old,7264.27,271244.338,no,21,,larv,,
+10B,10,A,32,larv,3,old,52679.467,369568.627,yes,59,,larv,,
+10C,10,A,32,larv,3,old,30198.666,367579.186,no?,8,,larv,,
+10G,10,A,32,larv,3,new,NA,343749.073,no,6,,larv,,6 syms
+10H,10,A,32,larv,3,new,11942.04,382773.043,no,1,,larv,,1 sym
+10I,10,A,32,larv,3,new,NA,349184.097,no,11,,larv,,~10 syms
+118B,118,D,25,larv,9,old,36172.5,230406.15,no,NA,Y,larv,,"redid Edu and Hoechst, blocking out problem areas, set sym count (175) to NA"
+118C,118,D,25,larv,9,old,74174.509,407164.648,yes,408,Y,larv,Y,
+118F,118,D,25,larv,9,new,84806.49,234622.934,no,225,,larv,,ZOOMED OUT
+118G,118,D,25,larv,9,new,49040.66,229091.43,no,629,,larv,,ZOOMED OUT
+118H,118,D,25,larv,9,new,NA,223844.267,no,188,,meta,Y,ZOOMED OUT
+118J,118,D,25,larv,9,new,NA,251682.593,no,213,,meta,Y,ZOOMED OUT
+119D,119,D,25,larv,9,new,6766.08,271272.144,no,251,,larv,,
+119F,119,D,25,larv,9,new,8016.91,280013.418,no,331,,larv,,
+119G,119,D,25,larv,9,new,22830.47,271488.384,no,642,,larv,,maybe meta?
+126A,126,D,32,larv,9,old,2420.967,295549.846,no,12,,larv,,
+126B,126,D,32,larv,9,old,2063.199,281882.952,no,365,,larv,,
+126C,126,D,32,larv,9,old,1631.671,288712.263,no,106,,larv,,
+126F,126,D,32,larv,9,new,8706.13,446205.36,no,219,Y,larv,,"redid Edu and size, blocking out problem areas"
+126G,126,D,32,larv,9,new,2254.09,466757.289,no,591,,larv,,lots of syms but Edu looks low
+126H,126,D,32,larv,9,new,5668.84,404267.113,no,557,Y,larv,,damage but I think useable
+127B,127,D,32,larv,9,old,692.099,274574.549,no,141,,larv,,
+127C,127,D,32,larv,9,old,1659.245,228137.718,no,133,,larv,,
+127D,127,D,32,larv,9,new,2545.97,241198.799,no,46,,larv,,looks faded/low
+127E,127,D,32,larv,9,new,1545,273479.621,no,57,,larv,,looks faded/low
+127F,127,D,32,larv,9,new,NA,325494.786,no,22,,larv,,looks faded/low
+127G,127,D,32,larv,9,new,1574.8,291029.41,no,61,Y,larv,,looks faded/low
+127I,127,D,32,larv,9,new,3619.53,391360.745,no,151,Y,larv,,damage but usable?
+127J,127,D,32,larv,9,new,14693.59,272631.473,no,38,Y,larv,Y,damage but decent Edu
+13A,13,B,25,larv,3,old,39320.031,371602.875,yes,46,,larv,,
+13B,13,B,25,larv,3,old,63681.355,420639.904,yes,68,,larv,,
+13C,13,B,25,larv,3,old,42246.975,395143.213,yes,346,,larv,,
+13D,13,B,25,larv,3,new,22338.39,363944.931,no,NA,,larv,,
+13F,13,B,25,larv,3,new,18860.98,349889.359,no,113,,larv,,
+13G,13,B,25,larv,3,new,NA,370683.505,no,38,,larv,,
+13H,13,B,25,larv,3,new,NA,348938.058,no,NA,,larv,,
+14A,14,B,25,larv,3,old,59309.552,413771.99,yes,48,,larv,,
+14B,14,B,25,larv,3,old,72093.388,392330.698,no?,15,,larv,,
+14C,14,B,25,larv,3,old,36126.313,339274.116,no,44,,larv,,
+14D,14,B,25,larv,3,new,33518.78,520471.942,no,48,,larv,,
+14E,14,B,25,larv,3,new,22039.46,395755.316,no,94,,larv,,
+14F,14,B,25,larv,3,new,13607.81,418777.323,no,80,,larv,,
+14H,14,B,25,larv,3,new,32331.25,445898.195,no,87,,larv,,
+14I,14,B,25,larv,3,new,25060.1,460699.525,no,21,,larv,,
+14J,14,B,25,larv,3,new,35073.88,600561.098,no,56,Y,larv,,damage but may be usable
+17A,17,B,32,larv,3,old,20304.55,434260.612,yes,8,,larv,,
+17B,17,B,32,larv,3,old,13491.1,440652.19,yes,29,,larv,,
+17D,17,B,32,larv,3,new,NA,294743.687,no,26,,larv,,
+17E,17,B,32,larv,3,new,NA,302704.818,no,NA,,larv,,
+17F,17,B,32,larv,3,new,NA,389310.671,no,109,,larv,,
+17G,17,B,32,larv,3,new,NA,365480.002,no,68,,larv,,
+18D,18,B,32,larv,3,new,28935.48,468563.476,no,50,,larv,,
+18E,18,B,32,larv,3,new,24146.13,569205.311,no,13,,larv,,
+18F,18,B,32,larv,3,new,19926.44,500907.647,no,11,,larv,,
+18G,18,B,32,larv,3,new,29132.72,420340.155,no,10,,larv,,
+18I,18,B,32,larv,3,new,17168.5,435916.791,no,66,,larv,,
+18J,18,B,32,larv,3,new,20867.41,469799.199,no,36,,larv,,
+18K,18,B,32,larv,3,new,30495.83,411539.938,no,2,,larv,,only ~2 syms
+1A,1,apo,NA,larv,3,old,30628.815,418502.944,yes,0,Y,larv,,damage but may be usable
+1B,1,apo,NA,larv,3,old,61426.519,464666.106,yes,0,Y,larv,,damage but may be usable
+1D,1,apo,NA,larv,3,new,NA,467676.911,no,0,,larv,,"weird vertical position, lots of slices, ZOOMED OUT"
+1E,1,apo,NA,larv,3,new,NA,416638.688,no,0,,larv,,ZOOMED OUT
+1F,1,apo,NA,larv,3,new,NA,233048.812,no,0,,larv,,ZOOMED OUT
+21H,21,C,25,larv,3,new,10497.93,318085.33,no,1,,larv,,
+25C,25,C,32,larv,3,old,772.062,397268.455,yes,1,Y,larv,,very very little damage
+27A,27,D,25,larv,3,old,20601.656,179886.539,no,22,,larv,,
+27B,27,D,25,larv,3,old,33346.199,334269.494,no,69,,larv,,
+27D,27,D,25,larv,3,new,14944.98,303002.052,no,36,,larv,,
+27E,27,D,25,larv,3,new,31306.6,362470.987,no,43,,larv,,
+27F,27,D,25,larv,3,new,17004.22,312604.464,no,113,,larv,,
+27G,27,D,25,larv,3,new,9881.31,341683.718,no,32,,larv,,
+27H,27,D,25,larv,3,new,23335.27,409543.769,no,71,,larv,,
+27I,27,D,25,larv,3,new,12919.5,384524.399,no,37,,larv,,
+28A,28,D,25,larv,3,old,33912.148,460236.395,no,126,,larv,,
+28C,28,D,25,larv,3,old,43269.957,385733.006,yes,20,,larv,,
+28E,28,D,25,larv,3,new,18060.97,319226.131,no,29,,larv,,may have been imaged by Jun previously but doing over
+28F,28,D,25,larv,3,new,14145.73,365272.932,no,12,,larv,,may have been imaged by Jun previously but doing over
+28G,28,D,25,larv,3,new,7780.04,384399.053,no,109,,larv,,may have been imaged by Jun previously but doing over
+28H,28,D,25,larv,3,new,10028.78,274699.885,no,13,,larv,,may have been imaged by Jun previously but doing over
+2A,2,apo,NA,larv,3,old,18306.149,412441.56,no,0,,larv,,
+2B,2,apo,NA,larv,3,old,49340.297,436156.302,yes,0,,larv,,
+2D,2,apo,NA,larv,3,new,20013.4,438008.896,no,0,,larv,,step size was set too small! 2.something
+2E,2,apo,NA,larv,3,new,15420.54,384910.002,no,0,,larv,,step size was set too small! 2.something
+2F,2,apo,NA,larv,3,new,11082.47,290104.852,no,0,,larv,,step size was set too small! 2.something
+2G,2,apo,NA,larv,3,new,15557.02,344154.044,no,0,,larv,,step size was set too small! 2.something
+2I,2,apo,NA,larv,3,new,8719.12,441749.706,no,0,,larv,,
+2J,2,apo,NA,larv,3,new,13411.82,407789.723,no,0,,larv,,
+31A,31,D,32,larv,3,old,38393.556,349653.538,no,49,,larv,,
+31B,31,D,32,larv,3,old,29485.198,386463.019,no,58,,meta,Y,
+31C,31,D,32,larv,3,old,34904.11,431842.4,no?,67,,meta,Y,
+31F,31,D,32,larv,3,new,NA,337228.822,no,6,,larv,,1.2x zoom
+31G,31,D,32,larv,3,new,12124.08,385271.393,no,18,,larv,,1.2x zoom
+31H,31,D,32,larv,3,new,24554.85,351547.255,no,24,,larv,,1.2x zoom
+31I,31,D,32,larv,3,new,NA,350428.812,no,41,,larv,,
+32B,32,D,32,larv,3,old,42716.416,453107.91,yes,1,,larv,,
+32C,32,D,32,larv,3,old,26379.026,422043.404,yes,23,,larv,,
+32D,32,D,32,larv,3,new,13305.23,453110.51,no,70,,larv,,
+32E,32,D,32,larv,3,new,15622.74,393114.348,no,12,,larv,,
+32F,32,D,32,larv,3,new,15363.15,478272.605,no,1,,larv,,
+32G,32,D,32,larv,3,new,35453.97,576723.38,no,2,,larv,,
+32H,32,D,32,larv,3,new,24030.25,447427.04,no,20,,larv,,
+5B,5,A,25,larv,3,old,24542.62,315011.348,no,20,,larv,,maybe meta but hard to tell
+5C,5,A,25,larv,3,old,87757.981,315334.649,no,195,,meta,Y,
+5D,5,A,25,larv,3,new,13966.94,272088.2,no,16,,larv,,
+5G,5,A,25,larv,3,new,NA,380734.442,no,52,,larv,,
+5I,5,A,25,larv,3,new,NA,366740.763,no,12,,larv,,
+69A,69,apo,NA,larv,9,old,26726.454,304760.833,no,0,,larv,,
+69B,69,apo,NA,larv,9,old,35867.81,384718.984,no,0,,larv,,
+69C,69,apo,NA,larv,9,old,43087.971,359569.033,no,0,,larv,,
+69D,69,apo,NA,larv,9,new,34073.39,338343.084,no,0,,larv,,
+69E,69,apo,NA,larv,9,new,NA,275353.952,no,0,,larv,,
+69F,69,apo,NA,larv,9,new,16972.9,332700.989,no,0,,larv,,
+69G,69,apo,NA,larv,9,new,18355.91,358159.185,no,0,,larv,,
+69H,69,apo,NA,larv,9,new,NA,248572.339,no,0,,larv,,
+69I,69,apo,NA,larv,9,new,NA,297648.786,no,0,,larv,,
+6C,6,A,25,larv,3,old,26727.62,386690.502,yes,33,,larv,,
+6F,6,A,25,larv,3,new,5911.06,311551.537,no,1,,larv,,1 sym
+6G,6,A,25,larv,3,new,8583.87,219493.849,no,2,,larv,,2-3 syms
+6H,6,A,25,larv,3,new,5166.06,316227.813,no,37,,larv,,
+6I,6,A,25,larv,3,new,15837.53,292690.757,no,22,,larv,,
+70A,70,apo,NA,larv,9,old,11030.84,297862.588,no,0,,larv,,
+70B,70,apo,NA,larv,9,old,7466.946,406708.303,no,0,,larv,,
+70D,70,apo,NA,larv,9,new,18303.19,336477.158,no,0,,larv,,
+70E,70,apo,NA,larv,9,new,16847.58,362898.117,no,0,,larv,,
+70F,70,apo,NA,larv,9,new,19039.01,431214.536,no,0,,larv,,
+70G,70,apo,NA,larv,9,new,19063.47,371533.946,no,0,,larv,,
+70H,70,apo,NA,larv,9,new,61540.4,329434.472,no,NA,,larv,,
+77D,77,A,25,larv,9,new,NA,169751.11,no,135,,larv,,
+77E,77,A,25,larv,9,new,NA,214175.731,no,186,,meta,Y,
+77F,77,A,25,larv,9,new,NA,352782.996,no,175,,larv,,
+78B,78,A,25,larv,9,old,56605.27,442000.86,yes,460,Y,larv,,redid Edu and size blocking out damage
+78D,78,A,25,larv,9,new,NA,313078.204,no,1132,,recruit,Y,
+78E,78,A,25,larv,9,new,60161.21,334149.717,no,101,,larv,,
+78F,78,A,25,larv,9,new,NA,211437.206,no,183,,larv,,bubble or something causing shadow
+78G,78,A,25,larv,9,new,37561.5,312486.028,no,329,,larv,,
+78H,78,A,25,larv,9,new,31573.27,373421.266,no,647,,larv,,
+85C,85,A,32,larv,9,old,99886.253,417293.838,no,195,,larv,,
+85D,85,A,32,larv,9,new,14219.09,315445.378,no,32,,larv,,
+85E,85,A,32,larv,9,new,NA,337344.409,no,552,,larv,,
+85G,85,A,32,larv,9,new,33135.08,290751.279,no,47,,larv,,
+85H,85,A,32,larv,9,new,NA,262586.649,no,15,,larv,,"weird shape, probably not useable"
+85I,85,A,32,larv,9,new,NA,276779.758,no,194,Y,larv,Y,can block out damage in analysis
+86A,86,A,32,larv,9,old,24854.203,398252.146,no,194,Y,larv,,
+86B,86,A,32,larv,9,old,69776.511,360881.54,no,54,,larv,,
+86D,86,A,32,larv,9,new,40455.14,375883.188,no,174,,larv,,maybe meta
+86F,86,A,32,larv,9,new,31038.4,257218.101,no,99,,larv,,
+86G,86,A,32,larv,9,new,31085.71,322159.97,no,39,,larv,,
+93A,93,B,25,larv,9,old,47555.592,444134.056,yes,543,,larv,,
+93B,93,B,25,larv,9,old,67856.006,315276.744,no,307,Y,larv,,damage but may be usable
+93D,93,B,25,larv,9,new,NA,211173.593,no,89,,larv,,
+93E,93,B,25,larv,9,new,NA,333698.136,no,NA,,larv,,only one sym if any
+93G,93,B,25,larv,9,new,31590.08,202233.65,no,NA,Y,larv,,"some damage, maybe meta, blocked out damage"
+94A,94,B,25,larv,9,old,67841.53,256158.779,no,93,,larv,,
+94D,94,B,25,larv,9,new,55551.41,240690.675,no,NA,,larv,,
+9A,9,A,32,larv,3,old,23095.69,395045.68,yes,10,Y,larv,,"redid Edu and Hoechst, blocking out problem areas"
+9B,9,A,32,larv,3,old,32998.082,413066.793,yes,11,,larv,,
+9E,9,A,32,larv,3,new,NA,377145.744,no,5,,larv,,"only a few syms, very large so had to zoom out to 1X"
+9F,9,A,32,larv,3,new,NA,392305.169,no,13,,larv,,
