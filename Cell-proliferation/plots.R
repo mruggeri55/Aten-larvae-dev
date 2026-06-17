@@ -57,43 +57,6 @@ ggplot(larv[!larv$symClade %in% c('C','apo'),],aes(x=sqrt(Edu.size),y=sym.count.
   xlab(expression(sqrt("Edu/area")))+
   labs(color="Symbiont spp",linetype="pre-treatment",shape="pre-treatment")
 
-
-#### SETTLERS ######
-set=read.csv('data/SetEduSizeSym_wMeta_final.csv')
-# sym_score with N indicates those should be filtered out, but just for sym score (I think, will need to check Edus)
-set[,c("symClade","symTreat")]=lapply(set[,c("symClade","symTreat")],as.factor)
-set$symClade=factor(set$symClade,levels=c('apo','A','B','C','D'))
-set$symTreat=factor(set$symTreat,levels=c('apo','25','32'))
-
-ggplot(set,
-       aes(x=symTreat,y=sqrt(Edu_area/size),color=symTreat))+
-  geom_boxplot(outlier.shape = NA,size=1)+
-  geom_point(aes(color=symTreat),position=position_jitterdodge(),size=2.5)+
-  scale_color_manual(values=c("#5BBCD6","#F98400"))+
-  facet_wrap(~symClade,nrow=1)+
-  theme_bw(base_size=20)+
-  ylab(expression(sqrt("Edu/size")))+
-  guides(color=guide_legend(title="symbiont\npre-treatment"))+
-  theme(axis.title.x = element_blank())
-ggplot(set[!set$symClade=='apo' & !set$sym_score=='N',],
-       aes(x=symTreat,y=log10(sym_area/size),color=symTreat))+
-  geom_boxplot(outlier.shape = NA,size=1)+
-  geom_point(aes(color=symTreat),position=position_jitterdodge(),size=2.5)+
-  scale_color_manual(values=c("#5BBCD6","#F98400"))+
-  facet_wrap(~symClade,nrow=1)+
-  theme_bw(base_size=20)+
-  ylab(expression(log10("symbiont area")))+
-  guides(color=guide_legend(title="symbiont\npre-treatment"))+
-  theme(axis.title.x = element_blank())
-
-ggplot(set[!set$symClade=='apo' & !set$sym_score=='N',],
-       aes(x=sqrt(Edu_area/size),y=log10(sym_area/size),color=symClade,shape=symTreat,linetype=symTreat))+
-  geom_point(size=2)+
-  geom_smooth(method='lm', formula= y~x,se=F,size=1.5)+
-  theme_bw(base_size=18)+
-  ggtitle('recruits')+
-  scale_color_manual(values=c("#e67e22","#f4d03f","skyblue3","#52be80"))
-
 ##### uptake rate ####
 inf_rate=read.csv("/Users/maria/Documents/work/Weis_lab/Acropora larvae infections/analysis_Nov2024/data/inf_rate_sum_2Apr2026.csv",
                   row.names = 1)
